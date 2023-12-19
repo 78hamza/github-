@@ -12,3 +12,7 @@ def ageId (age):
     print(f"my age is {age}")
     
 ageId(19)
+
+def ask(asking):
+    print(f"what is your {asking} :")
+ask("name")
